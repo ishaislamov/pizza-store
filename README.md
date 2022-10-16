@@ -1,5 +1,6 @@
 # Pizza Store 
 
+Использованные технологии:
 - ReactJS 18
 - TypeScript
 - Redux Toolkit (хранение данных / пицц)
